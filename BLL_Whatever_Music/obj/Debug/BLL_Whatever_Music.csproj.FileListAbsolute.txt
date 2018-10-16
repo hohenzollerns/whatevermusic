@@ -1,0 +1,11 @@
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\BLL_Whatever_Music.dll
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\BLL_Whatever_Music.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\DTO_Whatever_Music.dll
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\DTO_Whatever_Music.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\obj\Debug\BLL_Whatever_Music.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\obj\Debug\BLL_Whatever_Music.dll
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\obj\Debug\BLL_Whatever_Music.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\DAL_Whatever_Music.dll
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\MySql.Data.dll
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\DAL_Whatever_Music.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\Whatever_Music\BLL_Whatever_Music\bin\Debug\MySql.Data.xml
